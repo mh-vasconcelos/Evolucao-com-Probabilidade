@@ -1,10 +1,13 @@
 # Evolucao-com-Probabilidade
-Demonstração do princípio evolutivo em Python usando distribuição de Bernoulli
-Este repositório contém um notebook Python que demonstra o princípio evolutivo usando a distribuição de Bernoulli. 
+- Demonstração do princípio evolutivo em Python usando distribuição de Bernoulli
+- A maioria das instruções já estão no notebook.
+
 
 ## Conteúdo
 
-- `evolucao_com_bernoulli.ipynb`: Notebook principal que contém a simulação e a análise da evolução com distribuição de Bernoulli.
+- `evolucao_com_bernoulli.ipynb`: Notebook principal
+- Este repositório contém um notebook Python que faz uma simulação da seleção de características através de gerações (biologia) usando o exemplo dos hominídeos.
+
 - O notebook simula diferentes gerações e rastreia a ocorrência de mutações para o bipedalismo ao longo das gerações.
 
 
